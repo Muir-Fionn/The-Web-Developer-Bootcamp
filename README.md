@@ -5,5 +5,5 @@ On 06 January 2017 I started Colt Steele's Udemy course titled, **The Web Develo
 
 This repository will be used to store my solutions to the various Assignments and Projects completed as I work through this course. I will add links to and descriptions of each assignment as I complete and upload them.
 
-## [HTML-Only Assignments](../HTML
+## [HTML-Only Assignments](HTML)
 These assignments are completed using only HTML.  Use of JavaScript and CSS is not allowed.  This makes the code less efficient, but helped to greatly increase my understanding of how to piece apart the sections and content of a web page from a visual idea.  To code each solution, I used the instructor provided image of the final web page as well as any further user stories.
