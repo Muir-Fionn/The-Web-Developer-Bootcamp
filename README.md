@@ -9,17 +9,17 @@ This repository will be used to store my solutions to the various Assignments an
 These assignments are completed using only HTML.  Use of JavaScript and CSS is not allowed.  This makes the code less efficient, but helped to greatly increase my understanding of how to piece apart the sections and content of a web page from a visual idea.  To code each solution, I used the instructor provided image of the final web page as well as any further user stories.
 
 1. [Lists Assignment](Assignments/HTML/list-assignment.html)
-   Description: Recreate [this image](https://i.gyazo.com/5a50b335e2fcc5e2a3f05f554edfda82.png) in HTML. 
-   Goal: Identify and use different heading and list elements.
+   + Description: Recreate [this image](https://i.gyazo.com/5a50b335e2fcc5e2a3f05f554edfda82.png) in HTML. 
+   + Goal: Identify and use different heading and list elements.
     
 2. [Recreate a Web Page](Assignments/HTML/recreate_webpage_assignment.html)
-   Description: Reverse-engineer the web page as seen in [this image](https://i.gyazo.com/ab0c7c023751c986e6b06c547ee4737b.png).
-   Goal: Identify and use basic HTML elements in order to create a simple web page from a visual layout.  Include an image and a hyperlink along with heading, paragraph and list elements.
+   + Description: Reverse-engineer the web page as seen in [this image](https://i.gyazo.com/ab0c7c023751c986e6b06c547ee4737b.png).
+   + Goal: Identify and use basic HTML elements in order to create a simple web page from a visual layout.  Include an image and a hyperlink along with heading, paragraph and list elements.
     
 3. [Basic Pokemon Table](Assignments/HTML/pokemon_table_assignment.html)
-   Description: Create a table providing name, image, type, and next evolution for three basic pokemon.
-   Goal: Use the different HTML table tags to create a table and demonstrate ability to add images and hyperlinks within individual table cells.
+   + Description: Create a table providing name, image, type, and next evolution for three basic pokemon.
+   + Goal: Use the different HTML table tags to create a table and demonstrate ability to add images and hyperlinks within individual table cells.
    
 4. [Form Assignment](Assignments/HTML/form_assignment.html)
-  Description: Generate a form with multiple input types including basic validation as outlined in [these slides](http://webdev.slides.com/coltsteele/forms-exercise-52#/).
-  Goal: Identify and generate different input types and select elements.  Apply necessary labels and attributes to meet symantic language requirements. Use required and pattern attributes to perform basic validation.
+  + Description: Generate a form with multiple input types including basic validation as outlined in [these slides](http://webdev.slides.com/coltsteele/forms-exercise-52#/).
+  + Goal: Identify and generate different input types and select elements.  Apply necessary labels and attributes to meet symantic language requirements. Use required and pattern attributes to perform basic validation.
