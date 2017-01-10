@@ -23,3 +23,11 @@ These assignments are completed using only HTML.  Use of JavaScript and CSS is n
 4. [Form Assignment](Assignments/HTML/form_assignment.html)
   + Description: Generate a form with multiple input types including basic validation as outlined in [these slides](http://webdev.slides.com/coltsteele/forms-exercise-52#/).
   + Goal: Identify and generate different input types and select elements.  Apply necessary labels and attributes to meet symantic language requirements. Use required and pattern attributes to perform basic validation.
+  
+## [CSS Assignments](Assignments/CSS)
+These assignments bring in CSS to manipulate an HTML file.  JavaScript is still not allowed. The focus is on how to use selectors to identify elements and change them in specific ways.
+
+1. Selectors Exercise [html](Assignments/CSS/selectorsExercise.html) [css](Assignments/CSS/selectors.css)
+   + Description: Instructor provided HTML file and CSS file with commented out instructions on what to change.  For each instruction, write the appropriate code to make the change without editing any part of the HTML file (no adding extra IDs or classes).
+   + Goal: Target elements using different types of selectors, including: descendant, psuedo-class, attribute and nth-of-type.  Understand and use the basic CSS properites and their associated values.
+   + Thoughts: It was good to practice the different types of selectors. For each CSS change, I thought through what was being targeted and the relationship and inheritence trees for the target to choose a selector.  Then, I used the correct property and value to change that target and verified the change using Chrome/Chrome Developer Tools. The main reference I used to help identify the best selector for each situation was [The 30 CSS Selectors You Must Memorize](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
