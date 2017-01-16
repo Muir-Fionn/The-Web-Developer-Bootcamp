@@ -1,0 +1,37 @@
+.blog {
+  width: 80%;
+  max-width: 700px;
+  border: 20px solid #99D5C9;
+  margin: 20px auto;
+  padding: 0 20px;
+  font-family: 'Source Sans Pro';
+}
+
+.quote {
+  padding-left: 5px;
+  border-left: 5px solid #bdc3c7;
+}
+
+.date {
+  text-transform: uppercase;
+  color: #A30B37;
+  letter-spacing: 4px;
+  font-size: 1.3em;
+}
+
+h2 {
+  color: #2E6171;
+  font-weight: 700;
+  font-size: 2em;
+}
+
+hr {
+  opacity: 0.2;
+  background-color: #bdc3c7;
+  height: 2px;
+  border: none;
+}
+
+p{
+  color: #36213E;
+}
